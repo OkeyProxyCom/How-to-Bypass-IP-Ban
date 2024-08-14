@@ -29,7 +29,7 @@ Permanent Bans: These remain in effect indefinitely until manually removed.
 Geographic Bans: These restrict access based on the geographical location of the IP address.
 
 # Solutions to Bypass IP Bans
-Dynamic IP Addressing
+1. Dynamic IP Addressing
 
 Dynamic IP addressing can help you change your IP address to bypass bans. Internet Service Providers (ISPs) often assign dynamic IPs that can be reset periodically.
 
@@ -42,7 +42,8 @@ Pros and Cons:
 Pros: Simple and often effective for temporary bans.
 Cons: May not work for persistent bans or if the ISP uses sticky IP addresses.
 
-Proxy Servers
+2. Proxy Servers
+
 [Proxy servers](https://www.okeyproxy.com/en) act as intermediaries, allowing you to use a different IP address provided by the proxy server.
 
 Types:
@@ -58,7 +59,7 @@ Pros and Cons:
 Pros: Provides anonymity and access to content from different locations.
 Cons: Speed may be affected; free proxies may have security issues.
 
-Virtual Private Networks (VPNs)
+3. Virtual Private Networks (VPNs)
 
 A VPN encrypts your internet traffic and routes it through a remote server, changing your IP address.
 
@@ -71,7 +72,7 @@ Pros and Cons:
 Pros: High level of anonymity and access to global content.
 Cons: Subscription costs and potential impact on internet speed.
 
-Tor Network
+4. Tor Network
 
 The Tor network provides strong anonymity by routing your internet traffic through multiple volunteer-operated servers.
 
