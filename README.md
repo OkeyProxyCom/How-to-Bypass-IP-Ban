@@ -1,5 +1,6 @@
 # How-to-Bypass-IP-Ban
 ![image](https://github.com/user-attachments/assets/8cdb596e-1248-44f8-b8cd-a2085314707b)
+
 Understanding IP Bans: Causes, Verification, and Solutions
 
 This article will explain what an IP ban is, why it happens, how to verify if your IP is banned, and various solutions to bypass these bans.
